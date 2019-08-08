@@ -1,0 +1,154 @@
+body{
+	margin:0;
+    background-color: #827169;
+	font-family:arial;
+}
+a{
+	color:#F3F6FD;
+}
+form{
+	margin:0;
+}
+.sx {
+	background-color:#827169;
+	width: 20%;
+	height: 600px;
+	float: left;
+	position: relative;
+}
+
+.centro {
+    background-color: #B4A099;
+	width: 60%;
+	height:auto;
+	min-height : 600px;
+	float: left;
+}
+
+.dx  {
+   background-color: #827169;
+   width: 20%;
+   height:600px;
+   float: left;
+   
+}
+
+.center{
+	margin: 0 auto;
+	float: inherit;
+	min-height: 30%;
+	height:auto;
+}
+
+.navi{
+	background-color:#39312d;
+	height: 40px;
+	padding-top: 15px;
+	color: #fff;
+	text-align:center;
+}
+
+.logo{
+	text-align: center;
+	line-height:30px;
+}
+
+
+
+.filmcontainer{
+	width:400px;
+	height:290px;
+	margin:0 auto;
+	margin-bottom: 20px;
+	margin-top:20px;
+}
+
+.filmimg{
+	width:50%;
+	float:left;
+	height: 17%;
+}
+
+.filmdesc{
+	width:50%;
+	float:right;
+}
+
+.filmimg img{
+	width:100%;
+}
+
+.foot{
+	margin:0 auto;
+	width:60%;
+	height:10%;
+	margin-top:0;
+	display : none;
+}
+
+.container{
+	width: 90%;
+	height: 80%;
+	margin: 5%;
+	min-height : 650 px;
+	position: relative;
+}
+
+.lettere{
+	width: 7%;
+	height: 100%;
+	float: left;
+}
+.numeri{
+	width : 100%;
+	height: 7%;
+	position: absolute;
+    bottom: 0;
+}
+
+.plaza{
+	margin-left: 7%;
+	width: 87%;
+	height: 91%;
+	padding: 3%;
+	
+	
+}
+.plaza img{
+	margin: 1px;
+	cursor: pointer; 
+}
+
+#prenota {
+	margin-left: 5%;
+	
+}
+#prenota:active {
+	position:relative;
+	top:1px;
+}
+
+#film1{
+	width: 70%;
+	margin-top: 10%;
+	margin-left: 15%;
+}
+
+.legenda{
+	height: 50%;
+	width: 90%;
+	bottom: 0;
+	background-color: #827169;
+	position: absolute;
+	padding-left:10%;
+}
+
+.legenda img{
+	
+	width: 85%;
+}
+
+#descrizione{
+	margin: 15%;
+}
+
